@@ -1,4 +1,5 @@
 Superstore Sales & Profitability Analysis
+
 Objective: Transforming raw retail data into actionable business strategies using Power BI.
 
 📖 Executive Summary
@@ -44,3 +45,4 @@ Download the Sample - Superstore.pbix file.
 Open in Power BI Desktop to interact with the slicers and drill-through features.
 
 View the Dashboard_Screenshot.png for a quick preview of the visual report
+
